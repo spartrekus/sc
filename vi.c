@@ -1,8 +1,14 @@
 /*	SC	A Spreadsheet Calculator
  *
+ 
+ 
  *	One line vi emulation
  *	$Revision: 7.16 $
  */
+
+
+
+
 
 #include <sys/types.h>
 #ifdef BSD42
